@@ -1,0 +1,45 @@
+* {
+  font-family: sans-serif;
+}
+
+.container {
+  display: grid;
+  place-items: center;
+}
+
+.black {
+  font-weight: 700;
+}
+
+.card {
+  height: 240px;
+  width: 360px;
+  margin-top: 40px;
+  line-height: 1.7;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+img {
+  float: left;
+  margin-right: 30px;
+  width: 130px;
+  height: 200px;
+}
+
+.inputStyle {
+  width: 400px;
+  height: 30px;
+
+  border-radius: 10px;
+}
+
+label {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+span {
+  font-weight: bold;
+}
