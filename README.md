@@ -1,4 +1,6 @@
-##A simple project using the public API from Google Books
+#API Google books project
+
+A simple project using the public API from Google Books
 
 In this project it's possible make simple querys of books from google API through
 an input field.
@@ -14,4 +16,4 @@ This project was made with pure javascript, html and css.
 
 The goal with this simple project is practicing the call API with Fetch method in javascript.
 
-***FINISHED
+***FINISHED***
