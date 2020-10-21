@@ -14,4 +14,4 @@ This project was made with pure javascript, html and css.
 
 The goal with this simple project is practicing the call API with Fetch method in javascript.
 
-OBS: the project is looking rustic, needs some improvements in the CSS styles that I intend to do it very soon.
+***FINISHED
